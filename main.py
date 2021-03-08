@@ -12,8 +12,7 @@ with open(user_file, 'w') as file:
 #Ask
 
 print("I will ask a series or questions about the user to better create a list to crack their password.")
-print("before we start remember at anytime you want to finish with filling out information type CLEAR")
-print("or you can say SKIP to skip to next prompt")
+
 
 
 first_name = input("What is their first name?: ")
