@@ -19,4 +19,4 @@ Once Complete
 ls
 ```
 
-![Uploading Screen Shot 2021-03-08 at 3.12.08 PM.png…]
+<img width="567" alt="Screen Shot 2021-03-08 at 3 12 08 PM" src="https://user-images.githubusercontent.com/43651169/110388804-e25d3480-8020-11eb-9c5f-46a50debfc93.png">
