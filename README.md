@@ -10,6 +10,6 @@ git clone https://github.com/BrodyKretz/PasswordListCreator.git
 cd PasswordListCreator
 ```
 ```
-python3 run.py
+python3 main.py
 ```
 
