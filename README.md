@@ -13,3 +13,10 @@ cd PasswordListCreator
 python3 main.py
 ```
 
+Once Complete 
+
+```
+ls
+```
+
+![Uploading Screen Shot 2021-03-08 at 3.12.08 PM.png…]()
