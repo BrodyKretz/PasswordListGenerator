@@ -1,5 +1,5 @@
 # PasswordListCreator
-This Porjects goal is to automate a large password list with given attributes from a user such as {Name, Last Name, Middle Name, Birthday, favorite....}
+This Projects goal is to automate a large password list with given attributes from a user such as {Name, Last Name, Middle Name, Birthday, favorite....}
 
 ## Couldnt Be Any Simpler Than This
 
