@@ -21,7 +21,6 @@ Once Complete
 ls
 ```
 
-<img width="484" alt="Screen Shot 2021-03-08 at 3 16 22 PM" src="https://user-images.githubusercontent.com/43651169/110389272-86df7680-8021-11eb-8a0f-86bbf9ddeb54.png">
 
 
 
