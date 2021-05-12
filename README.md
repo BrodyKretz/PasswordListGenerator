@@ -6,7 +6,7 @@ Feel free to reccomend more traits I should add, and i can get then done ASAP.
 ## Couldnt Be Any Simpler Than This
 
 ```
-https://github.com/TheComputerDon/KeyLogger.git
+https://github.com/TheComputerDon/PasswordListGenerator.git
 ```
 ```
 cd PasswordListCreator
